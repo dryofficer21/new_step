@@ -1,0 +1,21 @@
+{
+    "Entr\u00e9es": {
+        "Salade C\u00e9sar": 5.0,
+        "Soupe du jour": 4.5
+    },
+    "Plats principaux": {
+        "Steak frites": 15.0,
+        "P\u00e2tes carbonara": 12.0
+    },
+    "Desserts": {
+        "Tarte aux pommes": 6.0,
+        "Mousse au chocolat": 5.5
+    },
+    "Boissons": {
+        "Eau min\u00e9rale": 2.0,
+        "Caf\u00e9": 2.5
+    },
+    "boissons": {
+        "soda": 3.0
+    }
+}
